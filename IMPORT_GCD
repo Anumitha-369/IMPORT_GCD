@@ -1,0 +1,6 @@
+# Using Import - GCD function
+
+import math
+math.gcd(26)
+
+OUTPUT: 4
